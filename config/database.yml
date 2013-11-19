@@ -13,8 +13,8 @@ development:
   adapter: postgresql
   encoding: utf8
   database: demo_app_dev
-  #username: sample_user
-  #password: centerstage
+  username: sample_user
+  password: centerstage
   host: localhost
   
 # Warning: The database defined as "test" will be erased and
